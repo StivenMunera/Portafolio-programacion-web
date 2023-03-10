@@ -1,0 +1,86 @@
+body{
+    width: 1440px;
+    height: 1024px;
+  }
+  .fondo {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    background-image: url(../imagenes/binary-2380422_640.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .nombre {
+    position: absolute;
+    width: 706px;
+    height: 561px;
+    left: 37px;
+    top: 47px;
+  
+    background: rgba(255, 255, 0, 0.45);
+  }
+  
+  .fotografia{
+    position: relative;
+    width: 206px;
+    height: 206px;
+    left: 500px;
+    top: 130px;
+    border-radius: 189px;
+    
+  }
+  .presentacion {
+    position: absolute;
+    width: 707px;
+    height: 218px;
+    left: 6px;
+    top: 645px;
+  
+    background: rgba(181, 178, 178, 0.45);
+  }
+  .diseño {
+    height: 373px;
+    width: 327px;
+    left: 820px;
+    position: absolute;
+    top: 15px;
+    border-radius: 20px;
+    background: #4B4B4B;
+         
+  }
+  .consultas {
+    height: 373px;
+    width: 327px;
+    left: 1250px;
+    position: absolute;
+    top: 15px;
+    border-radius: 20px;
+    background:#4B4B4B 
+  }
+  .talleres {
+    height: 373px;
+    width: 327px;
+    left: 820px;
+    position: absolute;
+    top: 500px;
+    border-radius: 20px;
+    background: #4B4B4B 
+  }
+  .retos {
+    height: 373px;
+    width: 327px;
+    left: 1250px;
+    position: absolute;
+    top: 500px;
+    border-radius: 20px;
+    background: #4B4B4B 
+  }
+  .desarrollo{
+    position: absolute;
+    top: 950px;
+    left: 40px;
+  }
+  .style{
+    color:#51005D;
+  }
